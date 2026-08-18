@@ -1,6 +1,6 @@
 # DarkWinoom · 开源
 
-专注编程，拥抱 A，用 vibe coding 把每一个想法直接写成可运行的现实。
+专注编程，拥抱 AI，用 vibe coding 把每一个想法直接写成可运行的现实。
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
