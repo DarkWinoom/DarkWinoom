@@ -10,7 +10,12 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## 开源项目
+## 迷你项目 · 开源
 
 - 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：休闲益智类小游戏合集，打开浏览器随时开玩
 - 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球，支持昼夜交替、自动定位视角，纯前端渲染
+
+## 传统脚手架 · 开源
+
+- 🖥️ [Vue3 多平台后端管理模板]([https://github.com/DarkWinoom/vue3-admin-electron-scaffold)：基于 Vue3 + Electron + Element Plus 构建的后端管理模板，开箱即用
+- 🖥️ [ThinkPHP 8 后端脚手架]([https://github.com/DarkWinoom/tp8-server-scaffold)：基于 ThinkPHP 8.2 + MySQL + Swagger 构建的 RESTful API 后端脚手架，开箱即用
