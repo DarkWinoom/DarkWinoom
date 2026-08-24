@@ -17,5 +17,6 @@
 
 ## 传统脚手架 · 开源
 
-- 🖥️ [Vue3 多平台后端管理模板](https://github.com/DarkWinoom/vue3-admin-electron-scaffold)：基于 Vue3 + TypeScript + Electron + Element Plus 构建的后端管理模板，开箱即用
 - 🖥️ [ThinkPHP 8 后端脚手架](https://github.com/DarkWinoom/tp8-server-scaffold)：基于 ThinkPHP 8.2 + MySQL + Swagger 构建的 RESTful API 后端脚手架，开箱即用
+- 🖥️ [Vue3 多平台后端管理模板](https://github.com/DarkWinoom/vue3-admin-electron-scaffold)：基于 Vue3 + TypeScript + Electron + Element Plus 构建的后端管理模板，开箱即用
+- 🖥️ [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的跨平台应用模板，使用 create-uni 构建，开箱即用
