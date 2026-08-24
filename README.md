@@ -12,8 +12,8 @@
 
 ## 迷你项目 · 开源
 
-- 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：休闲益智类小游戏合集，打开浏览器随时开玩
-- 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球，支持昼夜交替、自动定位视角，纯前端渲染
+- 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：经典休闲益智类小游戏合集，俄罗斯方块、数独、2048、贪吃蛇、五子棋等等，打开浏览器随时开玩
+- 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球、太阳、月球渲染，支持公转与自转，基于 ThreeJS/WebGPU
 
 ## 传统脚手架 · 开源
 
