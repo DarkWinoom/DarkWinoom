@@ -12,13 +12,16 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
-## 娱乐区 · WEB 随时开玩
-
-- 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：经典休闲益智类小游戏合集，俄罗斯方块、数独、2048、贪吃蛇、五子棋等等
-- 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球、太阳、月球渲染，支持公转与自转，基于 ThreeJS/WebGPU
-
 ## 脚手架 · 开箱即用
 
 - 🖥️ [ThinkPHP 8 后端脚手架](https://github.com/DarkWinoom/tp8-server-scaffold)：基于 ThinkPHP 8.2 + MySQL + Swagger 构建的 RESTful API 后端脚手架
 - 🖥️ [Vue3 多平台后端管理模板](https://github.com/DarkWinoom/vue3-admin-electron-scaffold)：基于 Vue3 + TypeScript + Electron + Element Plus 构建的 admin 脚手架
 - 📱 [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架
+
+## 工具区 · 效率 UP
+- ⚙️[docker-mysql](https://github.com/DarkWinoom/docker-mysql)：本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署
+
+## 娱乐区 · WEB 随时开玩
+
+- 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：经典休闲益智类小游戏合集，俄罗斯方块、数独、2048、贪吃蛇、五子棋等等
+- 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球、太阳、月球渲染，支持公转与自转，基于 ThreeJS/WebGPU
