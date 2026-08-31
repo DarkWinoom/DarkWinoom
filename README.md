@@ -19,6 +19,7 @@
 - 📱 [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架
 
 ## 工具区 · 效率 UP
+- ⚙️[油猴脚本：B站 Mark一下](https://github.com/DarkWinoom/tampermonkey-bilibili-marks): Tampermonkey 脚本, 管理 B 站收藏分类与多时间点标记, 支持一键收藏与静态页分享
 - ⚙️[docker-mysql](https://github.com/DarkWinoom/docker-mysql)：本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署
 
 ## 娱乐区 · WEB 随时开玩
