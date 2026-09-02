@@ -19,9 +19,11 @@
 - 📱 [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架
 
 ## 工具区 · 效率 UP
-- ⚙️[油猴脚本：B 站合集页统计助手](https://github.com/DarkWinoom/tampermonkey-bilibili-collection-stats): Tampermonkey 脚本, 显示 B 站合集总时长、当前进度、剩余时长。单文件油猴脚本，零依赖
-- ⚙️[油猴脚本：B站 Mark一下](https://github.com/DarkWinoom/tampermonkey-bilibili-marks): Tampermonkey 脚本, 管理 B 站收藏分类与多时间点标记, 支持一键收藏与静态页分享
 - ⚙️[docker-mysql](https://github.com/DarkWinoom/docker-mysql)：本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署
+
+## 油猴脚本 · 网页增强
+- ⚙️[B 站合集页统计助手](https://github.com/DarkWinoom/tampermonkey-bilibili-collection-stats): 显示 B 站合集总时长、当前进度、剩余时长的 tooltips 小工具
+- ⚙️[B 站收藏夹增强工具](https://github.com/DarkWinoom/tampermonkey-bilibili-marks): 全新的 B 站收藏功能，支持分类与视频进度收藏, 可进行一键静态页分享
 
 ## 娱乐区 · WEB 随时开玩
 
