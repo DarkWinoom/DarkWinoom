@@ -19,6 +19,7 @@
 - 📱 [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架
 
 ## 效率提升
+- ⚙️[稳健生财](https://github.com/DarkWinoom/resilient-riches)：个人理财记账小应用，可自定义分类进行全面整合统计，支持按天录入。数据均保存在本地，一键部署，简单易用
 - ⚙️[docker-mysql](https://github.com/DarkWinoom/docker-mysql)：本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署
 
 ## 油猴脚本
