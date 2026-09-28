@@ -28,5 +28,6 @@
 
 ## 随时开玩
 
+- 🏞️ [微缩山水](https://github.com/DarkWinoom/miniature-shanshui)：从昆明的金马碧鸡坊与大观楼开始，在浏览器里转动一方微缩景观
 - 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：经典休闲益智类小游戏合集，俄罗斯方块、数独、2048、贪吃蛇、五子棋等等
 - 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球、太阳、月球渲染，支持公转与自转，基于 ThreeJS/WebGPU
