@@ -1,33 +1,44 @@
-# DarkWinoom · 开源
+<p align="center">
+  <img src="assets/banner.webp" alt="DarkWinoom" width="100%">
+</p>
 
+```bash
+$ cat about.md
 专注编程，拥抱开源，借助 AI 把每一个想法直接写成可运行的现实。
+```
 
-![Vue3](https://img.shields.io/badge/-Vue3-42b883?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACsUlEQVR42u1ZXYrbMBD+VHqEFNqU9hKForCXSF+8t9i+OKdoXrzQK/RhX7xnKJSEQvYQW1oK8h2mL2OqirE1kuzdLPXAojiRtfP/zYwMEeEp0zM8cVoEWAT43wV4PsOZFYC3/PkewM2cApgJ06gDsBr5fQPgeI4u1AAggfkueD4AOE1uAiIq+WvoL7mRfS39S85bGyJ6mctDCfPWY6hR7NeQTeWjJAb6F+8AvEuIjQ7AFwA/ALwBcBXs3wHYz+1CvusM7akFt9FaqJrLhZyCqarANZxCMVkC2AGfbSIC1hnW7ek0lQBrQZsSg7Xyn/fUKlwvyp8GB376wMdg1I3sfzUQ1M4LfADY8rMN9u2nBLI2YF5Dv0eAbsfn7AKAIwBr4SxbKsDWS205NRF5adJ42t3z821g6XZqJB7yRTcSA0MB7zJArigGbCbAHXi9ZC33LrNii0haNlzsnUU/cM0M3QSBaRi1++CtgveOvOfa+64ucSGb6UKpNZHNRPqoC43V7ve8XmRaaeO5zEFwq49BFssOYjcSgKEWUyxgFcCmArQUaK+VJUaqAO0IMkfP1ATxHa+fhKA6CsDURkrrR+nItNVlO7CnHnl/dgtUA7le0vQHAK+DEoHYel0ioq+nwoELr5MyQjEWZolfQt1kALxILNQ+zwVkIWpeBVVl61Wdu4QicKgO25QK8I3XVSR4e5fZcpFmBI1Xif02orOkxCCOjU2csl1cC++ehGCfrKV0ysY8NgCQznC5lWhqU58yA5JSJylTdDPXYKtJaLhJ2dz7SP7+ISZzkjs0zGCboU0qcM3syZz1mpZYutVmGvOQ0+mjhwW3DHCdVzNpaiIKRolncT8gMefPQ6W7g8vSC5A5WkojaFW6OzBT3N7MYYGQ/BL8K4Dv53rFtNxSLgIsAiwCpNMfrLw4Kh2+PNgAAAAASUVORK5CYII=&logoColor=white)
-![MiniMax](https://img.shields.io/badge/-MiniMax-FF6B35?style=flat-square&logo=minimax&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
+## 01 / 开箱即用
 
-## 开箱即用
+- 🐘 **[ThinkPHP 8 后端脚手架](https://github.com/DarkWinoom/tp8-server-scaffold)** · 基于 ThinkPHP 8.2 + MySQL + Swagger 构建的 RESTful API 后端脚手架 `PHP`
+- 🖥️ **[Vue3 多平台后端管理模板](https://github.com/DarkWinoom/vue3-admin-electron-scaffold)** · 基于 Vue3 + TypeScript + Electron + Element Plus 构建的 admin 脚手架 `VUE3`
+- 📱 **[NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)** · 基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架 `VUE3`
 
-- 🖥️ [ThinkPHP 8 后端脚手架](https://github.com/DarkWinoom/tp8-server-scaffold)：基于 ThinkPHP 8.2 + MySQL + Swagger 构建的 RESTful API 后端脚手架
-- 🖥️ [Vue3 多平台后端管理模板](https://github.com/DarkWinoom/vue3-admin-electron-scaffold)：基于 Vue3 + TypeScript + Electron + Element Plus 构建的 admin 脚手架
-- 📱 [NutUI UniApp Cli 模板](https://github.com/DarkWinoom/uni-app-scaffold)：基于 Vue3 + TypeScript + nutui-uniapp 搭建的移动端跨平台应用脚手架
+## 02 / 效率提升
 
-## 效率提升
-- ⚙️[稳健生财](https://github.com/DarkWinoom/resilient-riches)：个人理财记账小应用，可自定义分类进行全面整合统计，支持按天录入。数据均保存在本地，一键部署，简单易用
-- ⚙️[docker-mysql](https://github.com/DarkWinoom/docker-mysql)：本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署
+- 💰 **[稳健生财](https://github.com/DarkWinoom/resilient-riches)** · 个人理财记账小应用，可自定义分类进行全面整合统计，支持按天录入，数据均保存在本地 `APP`
+- 🐳 **[docker-mysql](https://github.com/DarkWinoom/docker-mysql)** · 本地调试用的 MySQL 8 + phpMyAdmin 栈，通过 docker compose 一键部署 `DOCKER`
 
-## 油猴脚本
-- ⚙️[B 站合集页统计助手](https://github.com/DarkWinoom/tampermonkey-bilibili-collection-stats)：显示 B 站合集总时长、当前进度、剩余时长的 tooltips 小工具
-- ⚙️[B 站收藏夹增强工具](https://github.com/DarkWinoom/tampermonkey-bilibili-marks)：全新的 B 站收藏功能，支持分类与视频进度收藏, 可进行一键静态页分享
+## 03 / 油猴脚本
 
-## 随时开玩
+- ⏱️ **[B 站合集页统计助手](https://github.com/DarkWinoom/tampermonkey-bilibili-collection-stats)** · 显示 B 站合集总时长、当前进度、剩余时长的 tooltips 小工具 `TM`
+- ⭐ **[B 站收藏夹增强工具](https://github.com/DarkWinoom/tampermonkey-bilibili-marks)** · 全新的 B 站收藏功能，支持分类与视频进度收藏，可进行一键静态页分享 `TM`
 
-- 🏞️ [微缩山水](https://github.com/DarkWinoom/miniature-shanshui)：从漓江兴坪到周庄双桥，在浏览器里转动一方微缩景观
-- 🎮 [小游戏合集](https://github.com/DarkWinoom/mini-games)：经典休闲益智类小游戏合集，俄罗斯方块、数独、2048、贪吃蛇、五子棋等等
-- 🌏 [3D 地球模拟器](https://github.com/DarkWinoom/3d-earth-simulator)：实时 3D 地球、太阳、月球渲染，支持公转与自转，基于 ThreeJS/WebGPU
+## 04 / 随时开玩
+
+- 🏞️ **[微缩山水](https://github.com/DarkWinoom/miniature-shanshui)** · 从漓江兴坪到周庄双桥，在浏览器里转动一方微缩景观 `WEBGL`
+- 🎮 **[Mini Games](https://github.com/DarkWinoom/mini-games)** · 把七款经典小游戏装进一台怀旧街机。打开浏览器，挑一款游戏，随时来一局 `GAME`
+- 🌏 **[ORBITAL · 太阳系探索](https://github.com/DarkWinoom/solar-system-explorer)** · 打开一扇通往太阳系的窗。以现实世界的节奏，在三维空间中探索太阳、八大行星和月球 `WEBGPU`
+
+---
+
+<p align="center">
+  <img alt="Vue3" src="https://img.shields.io/badge/-Vue3-42b883?style=flat-square&logo=vuedotjs&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+  <img alt="Electron" src="https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white">
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white">
+  <img alt="Codex" src="https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAACsUlEQVR42u1ZXYrbMBD+VHqEFNqU9hKForCXSF+8t9i+OKdoXrzQK/RhX7xnKJSEQvYQW1oK8h2mL2OqirE1kuzdLPXAojiRtfP/zYwMEeEp0zM8cVoEWAT43wV4PsOZFYC3/PkewM2cApgJ06gDsBr5fQPgeI4u1AAggfkueD4AOE1uAiIq+WvoL7mRfS39S85bGyJ6mctDCfPWY6hR7NeQTeWjJAb6F+8AvEuIjQ7AFwA/ALwBcBXs3wHYz+1CvusM7akFt9FaqJrLhZyCqarANZxCMVkC2AGfbSIC1hnW7ek0lQBrQZsSg7Xyn/fUKlwvyp8GB376wMdg1I3sfzUQ1M4LfADY8rMN9u2nBLI2YF5Dv0eAbsfn7AKAIwBr4SxbKsDWS205NRF5adJ42t3z821g6XZqJB7yRTcSA0MB7zJArigGbCbAHXi9ZC33LrNii0haNlzsnUU/cM0M3QSBaRi1++CtgveOvOfa+64ucSGb6UKpNZHNRPqoC43V7ve8XmRaaeO5zEFwq49BFssOYjcSgKEWUyxgFcCmArQUaK+VJUaqAO0IMkfP1ATxHa+fhKA6CsDURkrrR+nItNVlO7CnHnl/dgtUA7le0vQHAK+DEoHYel0ioq+nwoELr5MyQjEWZolfQt1kALxILNQ+zwVkIWpeBVVl61Wdu4QicKgO25QK8I3XVSR4e5fZcpFmBI1Xif02orOkxCCOjU2csl1cC++ehGCfrKV0ysY8NgCQznC5lWhqU58yA5JSJylTdDPXYKtJaLhJ2dz7SP7+ISZzkjs0zGCboU0qcM3syZz1mpZYutVmGvOQ0+mjhwW3DHCdVzNpaiIKRolncT8gMefPQ6W7g8vSC5A5WkojaFW6OzBT3N7MYYGQ/BL8K4Dv53rFtNxSLgIsAiwCpNMfrLw4Kh2+PNgAAAAASUVORK5CYII=&logoColor=white">
+  <img alt="MiniMax" src="https://img.shields.io/badge/-MiniMax-FF6B35?style=flat-square&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img alt="Web" src="https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white">
+</p>
